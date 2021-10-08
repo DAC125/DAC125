@@ -1,16 +1,31 @@
-### Hi there 👋
 
-<!--
-**DAC125/DAC125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a bachelor student at [Intituto Tecnológico de Costa Rica](https://www.tec.ac.cr/). 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Python, Java, C, C++, SQL, Unity, HTML, CSS, React, Node.js, JavaScript],
+   technologies: {
+      frontEnd: {
+         js: ["React"],
+         css: ["Bootstrap", "Material UI"]
+      },
+      backEnd: {
+         java: ["Spring"],
+         js: ["Node", "Express", "Flask"]
+      },
+      databases: ["MongoDB", "SQLServer", "PostgreSQL", "OracleDB"]
+   },
+   currentOccupation: ["last year student, seeking for job opportunities"],
+   profile: ["I am a very motivated and hard-working person, eager to learn and grow as
+a professional"]
+};
+```
+## Contact information
+[Linkedin](https://www.linkedin.com/in/diego-acu%C3%B1a-411141191/)
+
+[Email](diegoacuna170@gmail.com)
+
+[Resume](https://drive.google.com/file/d/1HWWjauTAzfpvKZfZfrAuExEchNZxQOAm/view?usp=sharing)
