@@ -1,5 +1,5 @@
 
-I'm a bachelor student at [Intituto Tecnológico de Costa Rica](https://www.tec.ac.cr/). 
+I'm a bachelor student at [Instituto Tecnológico de Costa Rica](https://www.tec.ac.cr/). 
 
 
 
