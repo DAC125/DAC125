@@ -26,6 +26,4 @@ a professional"]
 ## Contact information
 [Linkedin](https://www.linkedin.com/in/diego-acu%C3%B1a-411141191/)
 
-[Email](diegoacuna170@gmail.com)
-
 [Resume](https://drive.google.com/file/d/1HWWjauTAzfpvKZfZfrAuExEchNZxQOAm/view?usp=sharing)
