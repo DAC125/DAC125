@@ -26,4 +26,4 @@ a professional"]
 ## Contact information
 [Linkedin](https://www.linkedin.com/in/diego-acu%C3%B1a-411141191/)
 
-[Resume](https://drive.google.com/file/d/1HWWjauTAzfpvKZfZfrAuExEchNZxQOAm/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1yUatWwgHiaTOWcyZmx1ZDYjbl9THIjtb/view?usp=sharing)
